@@ -23,6 +23,9 @@ a browser extension available for Google Chrome, Firefox, Safari and others.
 
 3. Add `https://raw.githubusercontent.com/exoego/ublacklist-rankings/master/uBlacklist.txt` in the dialog.
 
+## Contribution
+
+Check [CONTRIBUTING.md](CONTRIBUTING.md) and [edit this file](https://github.com/exoego/ublacklist-rankings/edit/master/domain-list.yml).
 
 ## Acknowledgements
 
