@@ -1,0 +1,6 @@
+- domain: example.com
+  evidence: https://example.com/
+  note:
+- domain: example.com
+  evidence: https://example.com/
+  note:

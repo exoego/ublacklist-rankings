@@ -1,0 +1,6 @@
+- domain: foo.example.com
+  evidence: https://foo.example.com/
+  note:
+- domain: '*.example.com'
+  evidence: https://bar.example.com/
+  note:
