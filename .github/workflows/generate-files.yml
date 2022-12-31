@@ -37,10 +37,6 @@ jobs:
           ' \
           > evidence.md
 
-      - name: Run contrib/ublock
-        working-directory: contrib/ublock
-        run: ./generate.sh
-
       - name: Push generated files
         run: |
           git config user.name github-actions[bot]
