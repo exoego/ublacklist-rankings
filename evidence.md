@@ -23,3 +23,11 @@
 | `mugidensetsu.com` | https://mugidensetsu.com/summer-ipa/ |  |
 | `craft-beer.life` | https://craft-beer.life/magazine/136979 |  |
 | `beerprice.life` | https://beerprice.life/ec-hikaku |  |
+| `trustcellar.com` | https://trustcellar.com/media/articles/215 |  |
+| `bp-guide.jp` | https://bp-guide.jp/AXdsYlJB |  |
+| `www.andbeans.jp` | https://www.andbeans.jp/articles/curry-0248/ |  |
+| `updays.me` | https://updays.me/13780/ |  |
+| `www.squareclip.jp` | https://www.squareclip.jp/6838 |  |
+| `billion-log.com` | https://billion-log.com/curry-retort-recommend/ |  |
+| `www.e-goods.site` | https://www.e-goods.site/tv/satplus221105_curry/ |  |
+| `www.kina-recipe.com` | https://www.kina-recipe.com/sataplus/goods/ranking/20221105-1/ |  |
