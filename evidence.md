@@ -18,3 +18,5 @@
 | `kaeln.net` | https://kaeln.net/133058 |  |
 | `rank-king.jp` | https://rank-king.jp/article/4746 |  |
 | `thebest-1.com` | https://thebest-1.com/a5419/ |  |
+| `shinmaipapa.hatenablog.com` | https://shinmaipapa.hatenablog.com/entry/lego-2023-january |  |
+| `limia.jp` | https://limia.jp/article/365706/ |  |
