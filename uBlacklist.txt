@@ -16,3 +16,6 @@
 *://thebest-1.com/*
 *://shinmaipapa.hatenablog.com/*
 *://limia.jp/*
+*://mugidensetsu.com/*
+*://craft-beer.life/*
+*://beerprice.life/*

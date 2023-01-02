@@ -20,3 +20,6 @@
 | `thebest-1.com` | https://thebest-1.com/a5419/ |  |
 | `shinmaipapa.hatenablog.com` | https://shinmaipapa.hatenablog.com/entry/lego-2023-january |  |
 | `limia.jp` | https://limia.jp/article/365706/ |  |
+| `mugidensetsu.com` | https://mugidensetsu.com/summer-ipa/ |  |
+| `craft-beer.life` | https://craft-beer.life/magazine/136979 |  |
+| `beerprice.life` | https://beerprice.life/ec-hikaku |  |
