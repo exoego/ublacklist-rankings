@@ -31,3 +31,4 @@
 | `billion-log.com` | https://billion-log.com/curry-retort-recommend/ |  |
 | `www.e-goods.site` | https://www.e-goods.site/tv/satplus221105_curry/ |  |
 | `www.kina-recipe.com` | https://www.kina-recipe.com/sataplus/goods/ranking/20221105-1/ |  |
+| `webdesignmagazine.net` | https://webdesignmagazine.net/design-electric-heater/ |  |
