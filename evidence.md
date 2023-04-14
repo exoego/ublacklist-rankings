@@ -32,3 +32,4 @@
 | `www.e-goods.site` | https://www.e-goods.site/tv/satplus221105_curry/ |  |
 | `www.kina-recipe.com` | https://www.kina-recipe.com/sataplus/goods/ranking/20221105-1/ |  |
 | `webdesignmagazine.net` | https://webdesignmagazine.net/design-electric-heater/ |  |
+| `fashion.biglobe.ne.jp` | https://fashion.biglobe.ne.jp/mens/rankings/3080/ |  |

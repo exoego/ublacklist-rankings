@@ -28,3 +28,4 @@
 *://www.e-goods.site/*
 *://www.kina-recipe.com/*
 *://webdesignmagazine.net/*
+*://fashion.biglobe.ne.jp/*
